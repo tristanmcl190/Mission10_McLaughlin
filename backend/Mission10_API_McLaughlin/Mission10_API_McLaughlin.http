@@ -1,0 +1,6 @@
+@Mission10_API_McLaughlin_HostAddress = http://localhost:5015
+
+GET {{Mission10_API_McLaughlin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
